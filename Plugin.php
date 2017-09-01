@@ -21,7 +21,7 @@ class Plugin extends PluginBase
         return [
             'name'        => 'raviraj.rjgallery::lang.plugin.name',
             'description' => 'raviraj.rjgallery::lang.plugin.description',
-            'author'      => 'Raviraj Chauhan',
+            'author'      => 'Stefan Ninic',
             'icon'        => 'icon-picture-o'
         ];
     }

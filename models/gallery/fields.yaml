@@ -21,7 +21,7 @@ tabs:
 
         images:
             label: raviraj.rjgallery::lang.modeldata.images
-            type: fileupload
+            type: imageupload
             mode: image
             tab: raviraj.rjgallery::lang.tabs.info
             imageHeight: 150
